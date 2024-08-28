@@ -1,6 +1,6 @@
 name: ad_hoc_ident_util_crypto
 description: "Provides hash functionalities to encrypt AdHocIdentities as part of the ad_hoc_ident framework."
-version: 0.0.1-preview-1
+version: 0.0.1-preview-2
 homepage: https://github.com/FabianMoeckel/ad_hoc_ident_util_crypto
 repository: https://github.com/FabianMoeckel/ad_hoc_ident_util_crypto
 

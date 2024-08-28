@@ -1,5 +1,5 @@
 Part of the [ad\_hoc\_ident](https://pub.dev/packages/ad_hoc_ident) framework.
-Provides functionality to read NFC tags, based on [crypto](https://pub.dev/packages/crypto).
+Provides functionality to encrypt AdHocIdentities, based on [crypto](https://pub.dev/packages/crypto).
 
 ## Features
 The package consists of three domain packages. Each is provided with some implementation packages.
